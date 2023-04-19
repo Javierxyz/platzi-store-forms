@@ -16,7 +16,6 @@ import { BasicFormComponent } from './components/basic-form/basic-form.component
     AdminRoutingModule,
     ReactiveFormsModule,
     MaterialModule,
-
   ]
 })
 export class AdminModule { }
